@@ -131,7 +131,7 @@ csj_csv = """
 42911.0,csj,开屏,开屏-splash,adsplaqbid,,抢红包极速提醒-splash-plaq-adbidding,客户端竞价,否,,穿山甲,5757921.0,开屏,非原生,,,,,,1.0,1.0,,,,,,,,splash_waterfall_bid_new_hb
 42911.0,csj,信息流自渲染,信息流-msg,adsmsg100,,抢红包极速提醒-msg-ad100,标准,否,100.0,穿山甲,5757921.0,信息流,自渲染,"[1,2,3]",,3.0,,,,,,,,,,,,msg_waterfall_ecpm_yes
 42911.0,csj,信息流自渲染,信息流-msg,adsmsg50,,抢红包极速提醒-msg-ad50,标准,否,50.0,穿山甲,5757921.0,信息流,自渲染,"[1,2,3]",,3.0,,,,,,,,,,,,msg_waterfall_ecpm_yes
-41965.0,csj,信息流自渲染,信息流-msg,adsmsg25,,抢红包极速提醒-msg-ad25,标准,否,25.0,穿山甲,5757921.0,信息流,自渲染,"[1,2,3]",,3.0,,,,,,,,,,,,msg_waterfall_ecpm_yes
+42911.0,csj,信息流自渲染,信息流-msg,adsmsg25,,抢红包极速提醒-msg-ad25,标准,否,25.0,穿山甲,5757921.0,信息流,自渲染,"[1,2,3]",,3.0,,,,,,,,,,,,msg_waterfall_ecpm_yes
 42911.0,csj,信息流自渲染,信息流-msg,adsmsgbase,,抢红包极速提醒-msg-adbase,标准,否,,穿山甲,5757921.0,信息流,自渲染,"[1,2,3]",,3.0,,,,,,,,,,,,msg_waterfall_ecpm_yes
 42911.0,csj,信息流自渲染,信息流-msg,adsmsgbid,,抢红包极速提醒-msg-adbidding,客户端竞价,否,,穿山甲,5757921.0,信息流,自渲染,"[1,2,3]",,3.0,,,,,,,,,2.0,,,msg_waterfall_ecpm_yes
 42911.0,csj,信息流自渲染,信息流-msg,adsmsgbid50,,抢红包极速提醒-msg-adbidding50,客户端竞价,否,,穿山甲,5757921.0,信息流,自渲染,"[1,2,3]",,3.0,,,,,,,,,2.0,,,msg_waterfall_ecpm_yes
